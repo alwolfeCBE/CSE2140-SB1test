@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: src/Christmas.java
+    visible: true
+    placeholders:
+      - offset: 444
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 444
+        initialized_from_dependency: false
+        encrypted_possible_answer: ft3/KDXagmI+TWDbl9vbuw==
+        selected: false
+        status: Unchecked
+      - offset: 548
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 548
+        initialized_from_dependency: false
+        encrypted_possible_answer: ft3/KDXagmI+TWDbl9vbuw==
+        selected: false
+        status: Unchecked
+      - offset: 663
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 663
+        initialized_from_dependency: false
+        encrypted_possible_answer: ft3/KDXagmI+TWDbl9vbuw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/ChristmasTest.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
